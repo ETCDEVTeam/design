@@ -2,7 +2,8 @@
 
 ## Color System
 
-	<img src="emeraldcolors.png">
+<img src="emeraldcolors.png">
+
 
      //EMERALD COLORS
      $snow="#F7F9F8";
