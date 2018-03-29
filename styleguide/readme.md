@@ -5,12 +5,16 @@
 <img src="emeraldcolors.png">
 
 
-     //EMERALD COLORS
-     $snow="#F7F9F8";
-     $emerald="#00C853";
-     $coal="#222222";
-     $ash="#B1BFB7";
-     $conch="#D7DFDB";
-     $ruby="#F41A2D";
+    //EMERALD COLORS
+
+    $ruby = 	"#F41A2D";
+    $emerald = 	"#00C853";
+    $coal = 	"#222222";
+    $ash =		"#B1BFB7";
+    $conch = 	"#EAEFEC";
+    $snow = 	"#F7F9F8";
+    $white = 	"#FFFFFF";
+
+
 
 ## Typeface
