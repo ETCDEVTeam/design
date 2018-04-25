@@ -1,1 +1,0 @@
-this is the emerald wallet logo without any borders in various formats for the app
