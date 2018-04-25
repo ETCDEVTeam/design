@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<path fill="#00C853" d="M40,20L32,8l-8,12h-8v24h8l8,12l8-12h8V20H40z M24.707,36.707l-1.414-1.414L26.586,32l-3.293-3.293
-	l1.414-1.414L29.414,32L24.707,36.707z M40,37h-8v-2h8V37z"/>
-<polygon opacity="0.4" points="16,32 16,44 24,44 "/>
-<polygon opacity="0.2" points="16,20 16,32 24,20 "/>
-<polygon opacity="0.4" points="48,44 48,32 40,44 "/>
-<polygon opacity="0.2" points="40,20 48,32 48,20 "/>
-</svg>
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><title>ETCDEV</title><path d="M40,20,32,8,24,20H16V44h8l8,12,8-12h8V20ZM24.71,36.71l-1.41-1.41L26.59,32l-3.29-3.29,1.41-1.41L29.41,32ZM40,37H32V35h8Z" style="fill:#00c853"/><polygon points="16 32 16 44 24 44 16 32" style="opacity:0.4"/><polygon points="16 20 16 32 24 20 16 20" style="opacity:0.2"/><polygon points="48 44 48 32 40 44 48 44" style="opacity:0.4"/><polygon points="40 20 48 32 48 20 40 20" style="opacity:0.2"/></svg>
