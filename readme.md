@@ -1,4 +1,0 @@
-## ETCDEVTeam Design Assets & Guides
-
-
-
