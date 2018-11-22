@@ -1,6 +1,15 @@
 ETCDEV Product Logos
 ==========
 
+Illustrator
+
+[Illustrator File](Product Logos/RGB/ai)
+
+
+Sketch Library
+[Sketch File](Product Logos/RGB/sketch)
+
+
 Colored Version
 
 <img src="RGB/svg/ETCDEV_Emerald_green.svg" width="128" height="128"><img src="RGB/svg/ETCDEV_Geth_green.svg" width="128" height="128"><img src="RGB/svg/ETCDEV_Emerald_CLI_green.svg" width="128" height="128"><img src="RGB/svg/ETCDEV_Emerald_SDK_green.svg" width="128" height="128"><img src="RGB/svg/ETCDEV_SputnikVM_green.svg" width="128" height="128"><img src="RGB/svg/ETCDEV_SputnikVM_purple.svg" width="128" height="128"><img src="RGB/svg/ETCDEV_Mascot_green.svg" width="128" height="128"><img src="RGB/svg/ETCDEV_Emerald_UI_green.svg" width="128" height="128"><img src="RGB/svg/ETCDEV_Orbita_green.svg" width="128" height="128"><img src="RGB/svg/ETCDEV_Emerald_Vault_green.svg" width="128" height="128">
