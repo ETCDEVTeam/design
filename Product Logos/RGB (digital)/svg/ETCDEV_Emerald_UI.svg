@@ -8,7 +8,6 @@
 <polygon opacity="0.3" points="32,56 24,56 16,32 "/>
 <polygon opacity="0.1" points="24,56 8,40 8,8 "/>
 <polygon opacity="0.4" points="24,20 16,32 8,8 "/>
-<polygon opacity="0.4" points="56,8 48,32 40,20 "/>
+<polygon opacity="0.4" fill="#222222" points="56,8 48,32 40,20 "/>
 <polygon opacity="0.1" points="56,8 56,40 40,56 "/>
-<polygon opacity="0" points="48,32 32,56 16,32 32,24 "/>
 </svg>
